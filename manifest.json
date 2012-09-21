@@ -1,0 +1,13 @@
+{
+  "name": "refreshableTabs",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "auto refresh the tab on some conditions.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
